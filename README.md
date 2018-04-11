@@ -17,11 +17,6 @@ $ npm install
 $ npm start
 ```
 
-Resources
----------
-More information and working demo can be found here:
-> http://fernandedios.com/index.php?page=experiments&id=games
-
 Thanks
 ------
 
